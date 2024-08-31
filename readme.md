@@ -12,6 +12,6 @@
 </p>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=6ayy&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="150">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qtfayy&theme=dark&include_all_commits=true&count_private=true&layout=compact" height="150">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ripfayy&theme=dark&show_icons=true&include_all_commits=true&count_private=true" height="150">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripfayy&theme=dark&include_all_commits=true&count_private=true&layout=compact" height="150">
 </div>
