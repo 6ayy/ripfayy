@@ -12,6 +12,6 @@
 </p>
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=blamingthemovies&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0d1117&bg_color=0d1117" height="150">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blamingthemovies&theme=dark&include_all_commits=true&count_private=true&layout=compact&border_color=0d1117&bg_color=0d1117" height="150">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsfayy&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_color=0d1117&bg_color=0d1117" height="150">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsfayy&theme=dark&include_all_commits=true&count_private=true&layout=compact&border_color=0d1117&bg_color=0d1117" height="150">
 </div>
